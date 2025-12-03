@@ -32,6 +32,10 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
+android/.gradle/
+android/local.properties
+lib/generated_plugin_registrant.dart
+firebase_options.dart
 
 # Symbolication related
 app.*.symbols
