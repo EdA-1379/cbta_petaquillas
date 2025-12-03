@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416562350592",
+    "project_id": "cbta-app-8b669",
+    "storage_bucket": "cbta-app-8b669.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416562350592:android:2208fb6f151b6c068966e5",
+        "android_client_info": {
+          "package_name": "com.example.cbta_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5In1yEVh1H61mYyYPVup3-95_0B7gt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
